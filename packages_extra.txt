@@ -1,0 +1,1 @@
+https://storage.googleapis.com/streamlit-audio-dependencies/PyAudio-0.2.11-cp310-cp310-linux_x86_64.whl
