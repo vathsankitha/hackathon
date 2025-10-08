@@ -1,0 +1,10 @@
+# .streamlit/config.toml
+[general]
+base = "" # Required key
+
+[server]
+port = 8501
+
+[runner]
+# Use a more stable Python version
+python_version = "3.11"
