@@ -1,8 +1,20 @@
+# requirements.txt for Streamlit 2D to 3D Depth Estimation Project
+
+# Web Application Framework
 streamlit
+
+# Deep Learning / Model Execution
 torch
 transformers
 Pillow
-plotly
+
+# Data Manipulation and Scientific Computing
 numpy
+
+# Visualization and 3D Plotting
 matplotlib
-requests
+plotly
+
+# Utilities (Standard Python)
+requests  # Included for completeness, though not strictly used in the final version
+io        # Standard library, but good to list if directly accessed
