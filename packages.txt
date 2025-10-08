@@ -1,8 +1,5 @@
 # packages.txt
-# Required for building PyAudio (PortAudio library)
 libportaudio2
 libasound-dev
-
-# Required for building pycairo (Cairo graphics library and configuration tool)
 libcairo2-dev
 pkg-config
