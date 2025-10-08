@@ -1,4 +1,3 @@
-# packages.txt
 libportaudio2
 libasound-dev
 libcairo2-dev
