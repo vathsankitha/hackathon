@@ -1,8 +1,8 @@
 # packages.txt
-# System dependencies required for PyAudio:
+# Required for building PyAudio (PortAudio library)
 libportaudio2
 libasound-dev
 
-# System dependencies required for pycairo and its build process:
+# Required for building pycairo (Cairo graphics library and configuration tool)
 libcairo2-dev
 pkg-config
