@@ -165,7 +165,7 @@ def generate_textured_3d_mesh(Z_data, original_image, z_exaggeration_factor):
 
 st.set_page_config(layout="wide")
 
-st.title("💡 AetherScan: Monocular 2D to 3D Digital Twin Creator")
+st.title("Vision Depth🔍")
 st.markdown("---")
 
 processor, model = load_model()
@@ -254,4 +254,5 @@ if uploaded_file is not None:
 
     st.success(
         "🎉 Processing Complete! Use the **sidebar slider** to adjust the volume of the 3D model.")
+
 
